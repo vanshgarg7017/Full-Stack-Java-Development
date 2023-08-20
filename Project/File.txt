@@ -1,0 +1,13 @@
+Date of admission: 19/08/2023 15:32:56
+Name : Vansh Garg
+Address : Mzn
+Contact Number : 1
+Age : 20
+Sex : male
+Blood Group : a+
+Any Major disease suffered earlier : corona
+Patient ID : 4548
+
+********************************************************************
+
+
